@@ -265,7 +265,17 @@ a {
     float: right;
 }
 
+/* Lettering font */
+figcaption {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 25px;
+}
 
+/*  Lettering font for sub header captions*/
+.categoryTitle {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 25px;
+}
 
 
 /* footer */
